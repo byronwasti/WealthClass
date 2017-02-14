@@ -30,8 +30,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="695.58176"
-     inkscape:cy="451.2165"
+     inkscape:cx="886.5552"
+     inkscape:cy="323.45562"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -502,10 +502,106 @@ V2XiUBkDpUGhUGlQVBp/xZ/848f/ALM//9k=
        x="0.50419551"
        y="68.904175" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-       d="M 29.482142,261.09224 226.78571,133.71426 270.25298,247.10712 389.69344,86.845218"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 29.482142,261.09224 223.57848,148.94862 270.25298,247.10712 389.69344,86.845218"
        id="path4575"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 395.38438,79.383944 -1.95159,17.56463 -14.1222,-9.860809 z"
+       id="path4577"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.94225311;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4579"
+       cx="241.50769"
+       cy="185.42769"
+       r="7.0288734" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.94225311;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4579-3"
+       cx="28.820606"
+       cy="261.29196"
+       r="7.0288734" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.94225311;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4579-3-6"
+       cx="137.10927"
+       cy="198.11026"
+       r="7.0288734" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.94225311;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4579-3-6-7"
+       cx="341.57047"
+       cy="152.13989"
+       r="7.0288734" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="166.6875"
+       y="200.61606"
+       id="text4632"><tspan
+         sodipodi:role="line"
+         id="tspan4630"
+         x="166.6875"
+         y="200.61606"
+         style="font-size:7.76111126px;line-height:10.60999966px;stroke-width:0.26458332"
+         dx="0"
+         dy="0">Note: Amazon</tspan><tspan
+         sodipodi:role="line"
+         x="166.6875"
+         y="211.22606"
+         style="font-size:7.76111126px;line-height:10.60999966px;stroke-width:0.26458332"
+         id="tspan4634">never really went</tspan><tspan
+         sodipodi:role="line"
+         x="166.6875"
+         y="221.83606"
+         style="font-size:7.76111126px;line-height:10.60999966px;stroke-width:0.26458332"
+         id="tspan4636">down</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.00000003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.00000008,3.00000008;stroke-opacity:1;stroke-dashoffset:0"
+       d="m 28.546699,254.4105 0.377974,-37.41965"
+       id="path4638"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="6.5821571"
+       y="189.6089"
+       id="text4642"><tspan
+         sodipodi:role="line"
+         x="6.5821571"
+         y="189.6089"
+         style="font-size:7.76111126px;line-height:10.60999966px;stroke-width:0.26458332"
+         id="tspan4644">Jeff Bezos moves</tspan><tspan
+         sodipodi:role="line"
+         x="6.5821571"
+         y="200.2189"
+         style="font-size:7.76111126px;line-height:10.60999966px;stroke-width:0.26458332"
+         id="tspan4650">to Seattle and</tspan><tspan
+         sodipodi:role="line"
+         x="6.5821571"
+         y="210.8289"
+         style="font-size:7.76111126px;line-height:10.60999966px;stroke-width:0.26458332"
+         id="tspan4648">founds Amazon.com </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="199.57141"
+       y="86.089272"
+       id="text4658"><tspan
+         sodipodi:role="line"
+         id="tspan4656"
+         x="199.57141"
+         y="86.089272"
+         style="line-height:10.60999966px;stroke-width:0.26458332">&quot;Promised Investors</tspan><tspan
+         sodipodi:role="line"
+         x="199.57141"
+         y="96.699272"
+         style="line-height:10.60999966px;stroke-width:0.26458332"
+         id="tspan4660">Nothing but a Vision&quot;</tspan></text>
   </g>
 </svg>
